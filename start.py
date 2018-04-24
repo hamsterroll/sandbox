@@ -1,0 +1,1 @@
+"""Prvi program v pythonu"""
